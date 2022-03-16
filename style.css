@@ -1,0 +1,85 @@
+.heading {
+    width: 100%;
+    text-align: left;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: navy;
+    border: none;
+}
+
+.heading h3 {
+    display: inline;
+
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+    background-color: navy;
+    border: white;
+    border-style: ridge;
+
+}
+
+.big_img {
+    width: 00%;
+}
+
+.start1 {
+    font-size: xx-large;
+    font-family: monospace;
+    background-color: darkgreen;
+    border: none;
+}
+
+.status1 {
+    background-color: lightsalmon;
+    border: none;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+body {
+    background-position: fixed;
+    background-size: cover;
+}
+
+#canvas {
+    margin-top: 20px;
+}
+
+.source {
+    background-color: whitesmoke;
+    font-family: Geneva;
+    font-size: 20px;
+    color: navy;
+    border: none;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+h6 {
+    color: maroon;
+    text-align: justify;
+    font-size: 18px;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Arial;
+    text-transform: uppercase;
+    color: midnightblue;
+}
+.rstart{
+    font-size: xx-large;
+    font-family: monospace;
+    background-color: darkgreen;
+    border: none;    
+}
